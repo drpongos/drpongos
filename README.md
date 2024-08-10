@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @drpongos
-- 🎮 I’m interested in developing a game
-- 👾 I’m currently learning game development
-- 📫 Reach me here!
+- 👋 Hi, I'm Davey Russel Pongos
+- 🧑‍💻 I'm a Software Engineer
+- 📫 Reach me at drpongos@northville.dev
 
 <!---
 drpongos/drpongos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
